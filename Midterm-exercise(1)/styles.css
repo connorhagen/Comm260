@@ -1,0 +1,78 @@
+
+.paragraph1, .squarequote {display, incline;}
+#section1{
+  float: left;
+
+}
+#paragraph1 {
+  padding:20px;
+  width: 265px;
+  height: 250px;
+  text-indent: 20px;
+}
+#squarequote {
+  background-color: #afafaf;
+  padding:20px;
+  width: 200px;
+  height: 150px;
+  color: 	#00BFFF;
+  text-indent: 20px;
+}
+#side {
+  width: 32%;
+  float:left;
+  text-decoration-color: #333;
+  padding: 15px;
+  margin-top: 75px;
+  min-height: 250px;
+}
+#paragraph2 {
+  padding:20px;
+  width: 485px;
+  height: 150px;
+  text-indent: 20px;
+  float: left;
+}
+#main-nav	{
+	font-size: 1.0em;
+  font-style: normal;
+}
+
+#main-nav a, #main-nav a:visited {
+	text-decoration: none;
+}
+#main-nav a:hover, #main-nav a:focus, #main-nav a:active {
+	text-decoration: underline;
+}
+.article-thumbs	{
+		text-align: center;
+		clear:both;
+}
+.article-thumbs img{
+	padding-left: 40px;
+  padding-right: 40px;
+}
+#picdes {
+  text-align: center;
+  font-style: oblique;
+}
+#paragraph3{
+  text-indent: 20px;
+
+}
+#tumbs {
+  float: left;
+  
+}
+#top {
+  float: left;
+}
+#bottom {
+  float: left;
+}
+
+#topside{
+  width: 40%;
+  background-color: #ffffffff;
+  padding-left: 20px;
+}
