@@ -1,0 +1,71 @@
+header {
+	padding: 20px 0px 10px;
+	background: #EAECEE ;
+	margin: 0px auto;
+}
+h1 {
+	font-size: 75px;
+		text-align: center;
+}
+h2 {
+	font-size: 54px;
+	text-align: center;
+}
+.post-heading {
+	color: #811701;
+	font-size: 1.8em;
+	text-align: center;
+}
+#main-nav	{
+	font-size: 1.3em;
+	line-height: 1.4em;
+	clear: both;
+	padding:20px 0px;
+	border-top: 5px groove #811701;
+	background:#FADBD8;
+}
+blockquote	{
+	color: #811701;
+	font-size: 1.3em;
+	font-style: italic;
+		text-align: center;
+}
+#main-nav a, #main-nav a:visited {
+	text-decoration: none;
+}
+#main-nav a:hover, #main-nav a:focus, #main-nav a:active {
+	text-decoration: underline;
+}
+.hero-image	{
+float:left;
+}
+article p {
+	text-align: justify;
+	text-indent: 25px;
+}
+
+.article-thumbs	{
+		text-align: center;
+		clear:both;
+}
+#Gallery {
+	padding: 20px 0px 10px;
+	background: #EAECEE  ;
+	margin: 0px auto;
+	clear: both;
+	padding:20px 0px;
+	border-top: 5px groove #811701;
+}
+footer	{
+	clear: both;
+	padding:20px 0px;
+	position: absolute;
+}
+
+	#Howtohelp {
+		clear: both;
+		padding:20px 20px;
+		border-top: 5px groove #811701;
+		border-bottom: 5px groove #811701;
+		background:#FADBD8;
+	}
