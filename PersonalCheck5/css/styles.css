@@ -1,0 +1,114 @@
+header {
+	padding: 20px 0px 10px;
+	background: #EAECEE ;
+	margin: 0px auto;
+}
+h1 {
+	font-size: 75px;
+		text-align: center;
+}
+h2 {
+	font-size: 54px;
+	text-align: center;
+}
+.post-heading {
+	color: #811701;
+	font-size: 1.8em;
+	text-align: center;
+}
+#navi {
+	padding:20px 20px;
+}
+#main-nav	{
+	font-size: 1.3em;
+	line-height: 1.4em;
+	clear: both;
+	padding:20px 20px 20px 20px;
+	border-top: 5px groove #811701;
+}
+#main-nav ul li a {
+	width: 20%;
+	padding: 5px;
+	display: block;
+	float: left;
+	text-align: center;
+	background: #FADBD8 ;
+	color: ##A93226  ;
+	border: 1px solid #000000;
+	padding:20px 20px 20px 20px;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active {
+	background: #fff;
+	color: #000000;
+	border: 1px solid #000000;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0px;
+}
+nav ul a,
+nav ul a:visited {
+	text-decoration: none;
+	color: #333;
+}
+blockquote	{
+	color: #811701;
+	font-size: 1.3em;
+	font-style: italic;
+		text-align: center;
+}
+#main-nav a, #main-nav a:visited {
+	text-decoration: none;
+}
+#main-nav a:hover, #main-nav a:focus, #main-nav a:active {
+	text-decoration: underline;
+}
+.hero-image	{
+float:left;
+}
+article p {
+	text-align: justify;
+	text-indent: 25px;
+}
+
+.article-thumbs	{
+		text-align: center;
+		clear:both;
+}
+#Gallery {
+	padding: 20px 0px 10px;
+	background: #EAECEE  ;
+	margin: 0px auto;
+	clear: both;
+	padding:20px 0px;
+	border-top: 5px groove #811701;
+}
+footer	{
+	clear: both;
+	padding:20px 0px;
+	position: absolute;
+}
+
+	#Howtohelp {
+		clear: both;
+		padding:20px 20px;
+		border-top: 5px groove #811701;
+		border-bottom: 5px groove #811701;
+		background:#FADBD8;
+	}
+	#top-nav {
+		float: right;
+		margin: 1% 10% 0% 0%;
+		text-transform: uppercase;
+		position: fixed;
+	}
+	#top-nav ul li {
+		display: inline;
+		padding: 10px;
+	}
+	#top-nav ul li a:hover, #top-nav ul li a:focus, #top-nav ul li a:active {
+		color: #16f;
+		border-bottom: 2px solid #39f;
+	}
