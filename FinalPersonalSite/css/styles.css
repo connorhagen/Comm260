@@ -1,0 +1,144 @@
+header {
+	padding: 20px 0px 10px;
+	background: #EAECEE ;
+	margin: 0px auto;
+	font-family: 'Arvo', serif;
+}
+h1 {
+	font-size: 75px;
+		text-align: center;
+		font-family: 'Arvo', serif;
+
+
+}
+h2 {
+	font-size: 54px;
+	text-align: center;
+	font-family: 'Arvo', serif;
+}
+h5 {
+	font-size: 12px;
+	text-align: center;
+	font-family: 'Arvo', serif;
+	color: #BC635A;
+}
+.post-heading {
+	color: #811701;
+	font-size: 1.8em;
+	text-align: center;
+}
+#navi {
+	padding:20px 20px 20px 20px;
+	margin-bottom: 30px
+}
+#main-nav	{
+	font-size: 1.3em;
+	line-height: 0.5em;
+	clear: both;
+	padding:20px 20px 20px 20px;
+	border-top: 5px groove #811701;
+	align-content: center;
+}
+#main-nav ul li a {
+	width: 20%;
+	padding: 5px;
+	display: block;
+	float: left;
+	text-align: center;
+	background: #FADBD8 ;
+	color: ##A93226  ;
+	border: 1px solid #000000;
+	padding:20px 20px 20px 20px;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active {
+	background: #fff;
+	color: #000000;
+	border: 1px solid #000000;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0px;
+}
+nav ul a,
+nav ul a:visited {
+	text-decoration: none;
+	color: #333;
+}
+blockquote	{
+	color: #811701;
+	font-size: 1.3em;
+	font-style: italic;
+		text-align: center;
+}
+#main-nav a, #main-nav a:visited {
+	text-decoration: none;
+}
+#main-nav a:hover, #main-nav a:focus, #main-nav a:active {
+	text-decoration: underline;
+}
+.hero-image	{
+float:left;
+}
+article p {
+	text-align: justify;
+	text-indent: 25px;
+}
+
+.article-thumbs	{
+		text-align: center;
+		clear:both;
+		border-top: 2px solid #000000;
+		border-bottom: 2px solid #000000;
+		background-color: #BC635A;
+
+}
+#Gallery {
+	padding: 20px 0px 10px;
+	background: #EAECEE  ;
+	margin: 0px auto;
+	clear: both;
+	padding:20px 0px;
+	border-top: 5px groove #811701;
+}
+footer	{
+	clear: both;
+	padding: 40px 40px 40px 40px;
+	position: absolute;
+	text-decoration: none;
+	color: #BC635A;
+}
+nav{
+text-decoration: none;	
+}
+
+	#Howtohelp {
+		clear: both;
+		padding:20px 20px 20px 20px;
+		border-top: 5px groove #811701;
+		border-bottom: 5px groove #811701;
+		background:#FADBD8;
+		font-family: 'Arvo', serif;
+	}
+	#top-nav {
+		float: right;
+		margin: 1% 10% 1% 1%;
+		text-transform: uppercase;
+		position: fixed;
+		background-color: #FADBD8;
+		border-bottom: 3px solid #811701;
+		padding-left: 0px;
+		padding-right: 25px;
+		padding-top: 5px;
+
+	}
+	#top-nav ul li {
+		display: inline;
+		padding: 15px;
+
+	}
+	#top-nav ul li a:hover, #top-nav ul li a:focus, #top-nav ul li a:active {
+		color: #811701;
+		border-bottom: 2px solid #811701;
+	}
